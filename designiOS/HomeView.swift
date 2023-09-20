@@ -48,7 +48,7 @@ struct HomeView: View {
             
             Capsule()
                 .fill(.green)
-                .frame(width: 340, height: 80)
+                .frame(width: 375, height: 80)
                 .padding(.top,400)
                 .offset(x: 10)
             
